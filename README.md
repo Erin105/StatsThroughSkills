@@ -6,9 +6,13 @@ Currently playing on build 2025-05-27-0430.
 
 Tested to work the same as the old Stats Through Skills.
 
+
+
 Formula is ([sum of skills in catagory]-3)^0.4 which will vary from +0 to +5 to each stat.
 
 At rank 1 in 4 skill you get +1, and at rank 10 in all skills with get you +5
+
+
 
 Strength: Mechanics, Athletics, Bashing Weapons, Cutting Weapons, Melee, and Throwing
 
